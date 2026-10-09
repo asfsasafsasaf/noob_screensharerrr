@@ -2,8 +2,7 @@
 
 Нахуя я это делал если y-boss лучше
 
-tools downloader for me (im noob)
-
+tools downloader
 
 ```powershell
 powershell -NoP -c "iex (irm 'https://raw.githubusercontent.com/asfsasafsasaf/noob_screensharerrr/main/tools_downloader.ps1')"

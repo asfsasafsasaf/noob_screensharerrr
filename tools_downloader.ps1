@@ -22,6 +22,7 @@ $items = @(
     @{ f = 'rss-altschecker.exe';                   s = 'alts';      u = @('https://github.com/Jumarf123/RSS-AltsChecker/releases/download/1.0.0/rss-altschecker.exe') }
     @{ f = 'extractor.exe';                         s = '';          u = @('https://github.com/asfsasafsasaf/path_extractor/releases/download/v1/extractor.exe') }
     @{ f = 'pv++.exe';                              s = '';          u = @('https://github.com/Orbdiff/PrefetchView/releases/download/v1.6.8/pv++.exe') }
+    @{ f = 'UserAssistView.exe';                    s = '';          u = @('https://github.com/Orbdiff/UserAssistView/releases/download/v1.0/UserAssistView.exe') }
     @{ f = 'PowerShellParser++.exe';                s = 'detect.ac'; u = @('https://detect.ac/tool/PowerShellParser++') }
     @{ f = 'PathsParser++.exe';                     s = 'detect.ac'; u = @('https://detect.ac/tool/PathsParser++') }
     @{ f = 'KernelLiveDump++.exe';                  s = 'detect.ac'; u = @('https://detect.ac/tool/KernelLiveDump++') }

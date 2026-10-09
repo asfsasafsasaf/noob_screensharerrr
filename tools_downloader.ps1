@@ -17,6 +17,7 @@ $items = @(
     @{ f = 'shellbag_analyzer_cleaner.exe';         s = '';          u = @('https://privazer.com/ru/shellbag_analyzer_cleaner.exe') }
     @{ f = 'Bytecode-Viewer-2.13.2.jar';            s = '';          u = @('https://github.com/Konloch/bytecode-viewer/releases/download/v2.13.2/Bytecode-Viewer-2.13.2.jar') }
     @{ f = 'MeowClientFucker.exe';                  s = '';          u = @('https://github.com/MeowTonynoh/MeowClientFucker/releases/download/V1.1/MeowClientFucker.exe') }
+    @{ f = 'MeowResolver.exe';                      s = '';          u = @('https://github.com/MeowTonynoh/MeowResolver/releases/download/v.1.1/MeowResolver.exe') }
     @{ f = 'PathsParser.exe';                       s = '';          u = @('https://github.com/spokwn/PathsParser/releases/download/v1.2/PathsParser.exe') }
     @{ f = 'RedLotusAltChecker.exe';                s = 'alts';      u = @('https://github.com/ItzIceHere/RedLotusAltChecker/releases/download/RL/RedLotusAltChecker.exe') }
     @{ f = 'rss-altschecker.exe';                   s = 'alts';      u = @('https://github.com/Jumarf123/RSS-AltsChecker/releases/download/1.0.0/rss-altschecker.exe') }
